@@ -18,7 +18,7 @@ pip install torch torchvision numpy matplotlib opencv-python pillow
 
 ## Steps
 
-### Import Libraries and Load Model
+### Import Libraries and Load Model:
 
 Import necessary libraries and load the pre-trained VGG19 model.
 
