@@ -4,7 +4,7 @@ This project implements neural style transfer using a pre-trained VGG19 model. T
 
 ## Prerequisites
 
-Make sure you have the following libraries installed:
+Make sure you have the following libraries installed
 - torch
 - torchvision
 - numpy
